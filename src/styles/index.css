@@ -1,3 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Commissioner:wght@400;500;600;700&family=Inter:wght@400;500;600;700;800&family=Lato:wght@400;700&family=Nunito:wght@300;400;500;600;700;800;900&family=Rubik:wght@400;600;700;900&display=swap");
 @import url(./variables.scss);
 @import url(./global.scss);
+@import url(./header.module.scss);
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

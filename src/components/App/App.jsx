@@ -4,7 +4,7 @@ import Home from "../Home/Home";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App  mx-auto font-commis max-w-screen-xll">
       <Home/>
     </div>
   );
